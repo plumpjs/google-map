@@ -1,0 +1,26 @@
+{
+  "name": "plumpjs-google-map",
+  "version": "0.1.0",
+  "homepage": "https://github.com/plumpjs/google-map",
+  "authors": [
+    "James Howard <james@plumpdigital.co.uk>"
+  ],
+  "description": "MooTools Google map",
+  "main": "google-map.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "MooTools",
+    "Google",
+    "map"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
