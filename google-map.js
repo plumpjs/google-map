@@ -1,15 +1,15 @@
-// exported Map
-
-/*------------------------------------*\
-   #MAP JS
-\*------------------------------------*/
+/* exported GoogleMap */
 
 /**
+ *    PlumpJS: GoogleMaps
  *    MooTools Google Map wrapper.
  *
  *    Instantiate with the element for the map to be injected in to, which
  *    needs a height or it will collapse and the map will not display.
  */
+ 
+'use strict';
+
 var GoogleMap = new Class({
 
 	Implements : Options,
